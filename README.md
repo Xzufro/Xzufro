@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+# kewl badges and shit
+use these for links and tools and resources and shit i find cool
+![GitHub](https://github.com/Xzufro)(https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
 <!--
 **Xzufro/Xzufro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
