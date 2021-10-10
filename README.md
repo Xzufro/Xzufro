@@ -11,7 +11,8 @@
 <!-- CSS --><a><img align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a>
 <!-- Javascript --><a><img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a><br />
 <h2>Give Me Money</h2>
-
+<!-- Paypal --><a href="https://twitter.com/xzufro"><img align="left" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>
+<!-- GPay --><a href="https://twitter.com/xzufro"><img align="left" src="https://img.shields.io/badge/GooglePay-%233780F1.svg?style=for-the-badge&logo=Google-Pay&logoColor=white"/></a>
 <!--
 **Xzufro/Xzufro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
