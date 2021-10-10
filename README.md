@@ -1,11 +1,9 @@
 ### Hi there 👋
-
-# kewl badges and shit
-use these for links and tools and resources and shit i find cool
-![GitHub](https://github.com/Xzufro)(https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
-![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
+<h1>My Bio</h1>
+<!-- Steam --><a href="https://steamcommunity.com/id/xzufro/"><img align="left" src="https://img.shields.io/badge/Xzufro-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/></a>
+<!-- Xbox --><a href="https://twitter.com/xzufro"><img align="left" src="https://img.shields.io/badge/Xzufro-%23107C10.svg?style=for-the-badge&logo=Xbox&logoColor=white"/></a>
+<!-- Twitter --><a href="http://live.xbox.com/en-US/Profile?gamertag=Xzufro"><img align="left" src="https://img.shields.io/badge/Xzufro-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a><br />
+<h2>Skills</h2>
 <!--
 **Xzufro/Xzufro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
