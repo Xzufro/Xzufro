@@ -3,8 +3,8 @@
 <p>God these badges are cool as hell to use<br></p>
 <h2>STUFF TO REACH ME OR PLAY SPLITGATE WITH ME CUZ IM AWESOME</h2>
 <!-- Steam --><a href="https://steamcommunity.com/id/xzufro/"><img align="left" src="https://img.shields.io/badge/Xzufro-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/></a>
-<!-- Xbox --><a href="https://twitter.com/xzufro"><img align="left" src="https://img.shields.io/badge/Xzufro-%23107C10.svg?style=for-the-badge&logo=Xbox&logoColor=white"/></a>
-<!-- Twitter --><a href="http://live.xbox.com/en-US/Profile?gamertag=Xzufro"><img align="left" src="https://img.shields.io/badge/Xzufro-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a><br />
+<!-- Xbox --><a href="http://live.xbox.com/en-US/Profile?gamertag=Xzufro"><img align="left" src="https://img.shields.io/badge/Xzufro-%23107C10.svg?style=for-the-badge&logo=Xbox&logoColor=white"/></a>
+<!-- Twitter --><a href="https://twitter.com/xzufro"><img align="left" src="https://img.shields.io/badge/Xzufro-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a><br />
 <p><br>yes yes i know how many people wanna talk to me its astounding</p>
 <h2>MY QUALIFICATIONS</h2>
 <!-- C++ --><a><img align="left" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
