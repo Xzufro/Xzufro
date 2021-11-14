@@ -17,8 +17,10 @@
 <!-- Paypal --><a href="https://twitter.com/xzufro"><img align="left" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>
 <!-- GPay --><a href="https://twitter.com/xzufro"><img align="left" src="https://img.shields.io/badge/GooglePay-%233780F1.svg?style=for-the-badge&logo=Google-Pay&logoColor=white"/><br></a>
 <p><br>IM A GOOD PERSON ALRIGHT<br>I REALLY AM<br>IS IT NOT NORMAL TO JUST WANT MONEY<br>EVERYONE WANTS MONEY DAMMIT AND SO DO I<br>MONEYS GOOD</p>
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/yushi1007)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/yushi1007)
+<h1>i know i know this is just how good i am</h1>
+<a href="https://github.com/Xzufro"><img align="left" src="https://github-readme-stats.vercel.app/api?username=xzufro"/></a>
+<p>these stats are always gonna stay in the alltime low arent they<br></p>
+<p>i dont even know how to contribute<br>WHATS EVEN A PR</p>
 <!--
 Here are some ideas to get you started:
 
