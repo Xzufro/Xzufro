@@ -5,7 +5,7 @@
 <h1>My Bio</h1>
 <p>God these badges are cool as hell to use<br></p>
 <h2>STUFF TO REACH ME OR PLAY SPLITGATE WITH ME CUZ IM AWESOME</h2>
-<!-- Steam --><a target="_blank" href="https://steamcommunity.com/id/xzufro/"><img align="left" src="https://img.shields.io/badge/Xzufro-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/></a>
+<!-- Steam --><a href="https://steamcommunity.com/id/xzufro/"><img align="left" src="https://img.shields.io/badge/Xzufro-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/></a>
 <!-- Xbox --><a href="http://live.xbox.com/en-US/Profile?gamertag=Xzufro"><img align="left" src="https://img.shields.io/badge/Xzufro-%23107C10.svg?style=for-the-badge&logo=Xbox&logoColor=white"/></a>
 <!-- Twitter --><a href="https://twitter.com/xzufro"><img align="left" src="https://img.shields.io/badge/Xzufro-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a><br />
 <p><br>yes yes i know how many people wanna talk to me its astounding</p>
