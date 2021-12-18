@@ -17,7 +17,7 @@
 <!-- Javascript --><a><img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a><br />
 <p><br>im the master of all these obviously</p>
 <h2>GIB ME MONEY</h2>
-<!-- Buy Me A Coffee--><a href="https://www.buymeacoffee.com/xzufro"><img align="left" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/><br></a>
+<!-- Ko-Fi--><a href="https://ko-fi.com/xzufro"><img align="left" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/><br></a>
 <p><br>IM A GOOD PERSON ALRIGHT<br>I REALLY AM<br>IS IT NOT NORMAL TO JUST WANT MONEY<br>EVERYONE WANTS MONEY DAMMIT AND SO DO I<br>MONEYS GOOD</p>
 <h1>i know i know this is just how good i am</h1>
 <a href="https://github.com/Xzufro"><img align="left" src="https://github-readme-stats.vercel.app/api?username=xzufro&theme=synthwave"/></a>
