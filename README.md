@@ -1,7 +1,7 @@
 # Well Well Well Look Whos here
 ### hehehehehhe i have a cool banner now 
-<!-- Banner --><img align="left" src="https://xzufro.neocities.org/images/Banner.png"/><br><br><br><br><br><br></a>
-<p><br>its accurate</p>
+<!-- Banner --><img align="left" src="https://xzufro.github.io/images/banner.png"/><br><br><br><br><br><br><br><br><br></a>
+<p>its accurate</p>
 <h1>My Bio</h1>
 <p>God these badges are cool as hell to use<br></p>
 <h2>STUFF TO REACH ME OR PLAY SPLITGATE WITH ME CUZ IM AWESOME</h2>
