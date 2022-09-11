@@ -17,7 +17,9 @@
 <!-- React --><a><img align="left" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)"/></a><br />
 <p><br>im the master of all these obviously</p>
 <h2>GIB ME MONEY</h2>
-<!-- Ko-Fi--><a href="https://ko-fi.com/xzufro"><img align="left" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/><br><br></a>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A57III1)
+
 <p>GREASE THE GEARS OF CAPITALISM<br>GIVE ME YOUR MONEY<br>ITS MORE WORTH IT THAN THE CANDY BAR YOU WERE GOING TO BUY<br>EAT A SALAD</p>
 <h1>i know i know this is just how good i am</h1>
 <a href="https://github.com/Xzufro"><img align="left" src="https://github-readme-stats.vercel.app/api?username=xzufro&theme=synthwave"/></a>
