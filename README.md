@@ -1,7 +1,6 @@
 # Well Well Well Look Whos here
 ### hehehehehhe i have a cool banner now 
 <!-- Banner --><img align="left" src="https://raw.githubusercontent.com/Xzufro/Xzufro/main/banner.png"/><br><br><br><br><br><br><br><br><br></a>
-<p>its accurate</p>
 <h1>My Bio</h1>
 <p>God these badges are cool as hell to use<br>also yea im like the best person ever<br>im just good like that</p>
 <h2>STUFF TO REACH ME OR PLAY SPLITGATE WITH ME CUZ IM AWESOME<br>dammit<br>splitgate is dead isnt it</h2>
