@@ -1,6 +1,6 @@
-# Welcome To My Profile
-<!-- Banner --><img align="left" src="https://raw.githubusercontent.com/Xzufro/Xzufro/main/banner.png"/><br><br><br><br><br><br><br><br><br></a>
-<h1>Bio</h1>
+<!-- Banner -->
+<img align="left" src="https://raw.githubusercontent.com/Xzufro/Xzufro/main/logo.png"/><br><br><br><br><br><br><br><br><br></a>
+<h1>Welcome to my profile!</h1>
 <h2>Socials</h2>
 <!-- Steam --><a href="https://steamcommunity.com/id/xzufro/"><img align="left" src="https://img.shields.io/badge/Xzufro-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/></a>
 <!-- Twitter --><a href="https://twitter.com/xzufro"><img align="left" src="https://img.shields.io/badge/Xzufro-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a><br />
