@@ -1,9 +1,7 @@
 <!-- Banner -->
-<img align="left" src="https://raw.githubusercontent.com/Xzufro/Xzufro/main/logo.png"/><br><br><br><br><br><br><br><br><br></a>
+![Leetcode Stats](https://leetcard.jacoblin.cool/Xzufro?ext=activity))<br>
 <h1>Welcome to my profile!</h1>
-<h2>Socials</h2>
-<!-- Steam --><a href="https://steamcommunity.com/id/xzufro/"><img align="left" src="https://img.shields.io/badge/Xzufro-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/></a>
-<!-- Twitter --><a href="https://twitter.com/xzufro"><img align="left" src="https://img.shields.io/badge/Xzufro-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a><br />
+<a href="https://www.linkedin.com/in/jackmad/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <p><br>Get in line</p>
 <h2>Skills</h2>
 <!-- C++ --><a><img align="left" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
